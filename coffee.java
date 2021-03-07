@@ -37,7 +37,7 @@ class Ideone
 			canBuyAnything = true;
 		
 		if(canBuyAnything == false){
-			System.out.println("Недостаточно средств");
+			System.out.println("Недостаточно средств для покупки");
 		}
 		}
 	}
