@@ -18,7 +18,7 @@ class Ideone
 		boolean canBuyAnything = false;
 		
 		if(moneyAmount >= cappucinoPrice){
-			System.out.println("Вы можете купить капуччино");
+			System.out.println("You can buy capuccino");
 			canBuyAnything = true;
 		}
 		
